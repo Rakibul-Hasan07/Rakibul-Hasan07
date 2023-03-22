@@ -1,6 +1,8 @@
+![Web Developer](https://media.licdn.com/dms/image/D5616AQH08flJSoVgOQ/profile-displaybackgroundimage-shrink_350_1400/0/1676796953472?e=1684972800&v=beta&t=PXhRo-r00dzEhuY3iapkh1GCIYFMF8__APhE7u2JGPs)
+
 ### Hi there 👋, I'm Rakibul Hasan
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQH08flJSoVgOQ/profile-displaybackgroundimage-shrink_350_1400/0/1676796953472?e=1684972800&v=beta&t=PXhRo-r00dzEhuY3iapkh1GCIYFMF8__APhE7u2JGPs)
+
 
 ☛ I am Rakibul Hasan and I am a Frontend Web Developer. 
 
@@ -17,11 +19,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakibul-Hasan07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakibul-hasan07//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rakibul--hasan.firebaseapp.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-Hasan07)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakibul-Hasan07&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Rakibul-Hasan07)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakibul-Hasan07)  
 
 ![Profile views](https://gpvc.arturio.dev/Rakibul-Hasan07)  
